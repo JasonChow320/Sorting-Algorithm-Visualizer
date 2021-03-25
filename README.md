@@ -1,6 +1,8 @@
 ***INSTALL***
 Install all necessary dependencies using 'npm install', note some dependencies might be outdated or not longer supported by node.js
 
+***REQUIRE*** Node.js, react.js
+
 ***RUN***
 run the application after installing by entering 'npm start' in the app directory.
 
