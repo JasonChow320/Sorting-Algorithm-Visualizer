@@ -1,0 +1,58 @@
+.array_container{
+    position: relative;
+    width: 70%;
+    height: auto;
+    margin: auto;
+    padding-top: 1%;
+    right: 0px;
+    left: 12%;
+}
+
+.array_bar{
+    width: 4px;
+    background-color: teal;
+    display: inline-block;
+    margin: 0 1px;
+    
+}
+
+.button_container{
+    position:relative;
+    height: 58%;
+    width: 100%;
+    margin-top: 1%;
+}
+
+.button_sort{
+    position: relative;
+    width: 80%;
+    text-align: center;
+    padding: 4%;
+    margin-top: 1%;
+}
+
+.button_play{
+    position: relative;
+    width: 30%;
+    text-align: center;
+    padding: 4%;
+    margin: 1%;
+    margin-bottom: 0;
+}
+
+.animations_status{
+    position: relative;
+    margin-top: 15%;
+}
+
+.user_settings{
+    position: fixed;
+    left: 0;
+    height: 100%;
+    width: 24%;
+    background-color: teal;
+}
+
+.user_settings h1 {
+    font-size: 24px;
+}
